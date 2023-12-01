@@ -1,0 +1,27 @@
+.navigation{
+    background-color:cornflowerblue;
+    margin-bottom: 30px;
+
+}
+
+.titulo .col h3{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.foto .col a{
+    width: 200px;
+    
+}
+
+.col .navigationItems .nav .nav-item a{
+    color:white;
+}
+
+.acerca h1{
+    text-align: center;
+    font-size: 16px;
+    font:italic;
+    
+}
